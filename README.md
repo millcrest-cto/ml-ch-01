@@ -48,7 +48,7 @@ Please submit the following as part of your challenge completion:
 - **Segmentation Quality Insights**: Share your insights on the quality of the image/object segmentation, noting any challenges or interesting findings.
 
 ## Evaluation Criteria
-- **Code Quality and Notebook Layout**: Assessing the clarity, organisation, and structure of your code. We value clean and readable code that follows best practices.
+- **Code Quality and/or Notebook Layout**: Assessing the clarity, organisation, and structure of your code. We value clean and readable code that follows best practices.
 - **Completion and Efficiency**: How much of the task you are able to complete within the allotted time and how efficiently you use the tools and resources provided.
 - **Creativity and Problem-Solving Skills**: Your ability to think creatively and apply innovative solutions to the challenges presented, especially in data handling and vectorisation.
 - **Documentation and Analysis**: The clarity, detail, and thoroughness of your documentation and insights. We're interested in your ability to communicate your thought process and findings.
