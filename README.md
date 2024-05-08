@@ -5,8 +5,8 @@ This challenge tests your machine learning and geospatial analysis skills, focus
 
 ## Objectives
 - Perform image segmentation on selected raster tiles.
-- Vectorize both raster tiles and segmentation outputs.
-- Analyze and comment on the segmentation quality.
+- Vectorise both raster tiles and segmentation outputs.
+- Analyse and comment on the segmentation quality.
 
 ## Time Commitment
 **Please limit your work to no more than 3 hours on this challenge.** 
