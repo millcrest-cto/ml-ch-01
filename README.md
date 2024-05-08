@@ -30,6 +30,17 @@ We respect your time and do not want you to spend too much of your free time on 
 4. **Vectorization**: Convert the tiles and predictions to vector format.
 5. **Analysis**: Document the segmentation quality and discuss any challenges or findings.
 
+## Technical Suggestions
+To assist you in effectively completing this challenge, we suggest considering the following tools and techniques:
+
+- **Python GDAL Library**: Utilise GDAL for efficient handling of geospatial data. This library is powerful for manipulating and analysing raster data, which will be central to your tasks.
+- **Docker**: Consider using Docker to containerize your development environment. This ensures that your setup is easily reproducible and isolated from other projects, helping avoid environment-related issues.
+- **Jupyter Notebook**: While it's optional, we recommend using the `exploration.ipynb` notebook provided in the NASA repository as a starting template. It's a great way to organise your analysis and code, and can make it easier to share your approach and results.
+- **Creative Problem-Solving**: We encourage you to think outside the box and experiment with different methods and libraries. Creative use of Python’s rich ecosystem, such as using advanced data structures, algorithms, or lesser-known libraries, can demonstrate your technical depth and problem-solving skills.
+
+These suggestions are intended to enhance your workflow and showcase your technical abilities. Feel free to explore other tools and methodologies that you are comfortable with or that might better suit your approach to the challenge.
+
+
 ## Deliverables
 Please submit the following as part of your challenge completion:
 - **Method Explanation**: Describe the approach and methods you used. If you are comfortable with Jupyter, you may choose to do your work in the `exploration.ipynb` notebook from the NASA repository as a starting point.
