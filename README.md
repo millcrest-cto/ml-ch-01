@@ -25,20 +25,21 @@ We respect your time and do not want you to spend too much of your free time on 
 
 ## Task Breakdown
 1. **Setup**: Clone the repositories and prepare your environment.
-2. **Data Preparation**: Download and organize your selected dataset.
+2. **Data Preparation**: Download and organise your selected dataset.
 3. **Model Inference**: Run the models on your tiles.
 4. **Vectorization**: Convert the tiles and predictions to vector format.
 5. **Analysis**: Document the segmentation quality and discuss any challenges or findings.
 
 ## Deliverables
-Submit a report with:
-- Your method explanation.
-- Code for inference and vectorization.
-- Your insights on the segmentation quality.
+Please submit the following as part of your challenge completion:
+- **Method Explanation**: Describe the approach and methods you used. If you are comfortable with Jupyter, you may choose to do your work in the `exploration.ipynb` notebook from the NASA repository as a starting point.
+- **Code**: Include all code for model inference and vectorisation. Using the provided Jupyter notebook is recommended if it facilitates your workflow.
+- **Segmentation Quality Insights**: Share your insights on the quality of the image/object segmentation, noting any challenges or interesting findings.
 
 ## Evaluation Criteria
-- Quality of image segmentation.
-- Effectiveness in vectorizing raster data.
-- Clarity and thoroughness of your analysis.
+- **Code Quality and Notebook Layout**: Assessing the clarity, organisation, and structure of your code. We value clean and readable code that follows best practices.
+- **Completion and Efficiency**: How much of the task you are able to complete within the allotted time and how efficiently you use the tools and resources provided.
+- **Creativity and Problem-Solving Skills**: Your ability to think creatively and apply innovative solutions to the challenges presented, especially in data handling and vectorisation.
+- **Documentation and Analysis**: The clarity, detail, and thoroughness of your documentation and insights. We're interested in your ability to communicate your thought process and findings.
 
 **Respect for the 3-hour limit is part of the evaluation. Please stop at that time and submit whatever you have.**
