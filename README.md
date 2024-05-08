@@ -18,7 +18,7 @@ We respect your time and do not want you to spend too much of your free time on 
 2. **Segment Anything (SAM) - Automatic Mask Generator** from [SAM repository](https://github.com/facebookresearch/segment-anything), using the model for automatic segmentation without inputs.
 
 ## Dataset
-- **Validation Chips Dataset**: Download from [Hugging Face](https://huggingface.co/datasets/ibm-nasa-geospatial/multi-temporal-crop-classification/tree/main), containing 771 tiles (224x224 pixels) from Sentinel 2 at 30cm resolution. Use 5-10 tiles for your analysis.
+- **Validation Chips Dataset**: Download from[ [Hugging Face](https://huggingface.co/datasets/ibm-nasa-geospatial/multi-temporal-crop-classification/blob/main/validation_chips.tgz), containing 771 tiles (224x224 pixels) from Sentinel 2 at 30cm resolution. Use 5-10 tiles for your analysis.
 
 ## Optional Data
 - **WorldView-3 Sample Data**: [Available here](https://earth.esa.int/eogateway/missions/worldview-3/sample-data). Use if time allows, but be mindful of the potential time needed for preprocessing.
